@@ -1,0 +1,7 @@
+nav#menu{
+    background-color: coral; 
+    width: 250px;
+    padding: 50px;
+    margin: 0 auto;
+    overflow: hidden;
+}
