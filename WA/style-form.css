@@ -1,0 +1,16 @@
+form{
+    background-color: blueviolet;
+}
+
+form#login{
+    background-color: lightblue;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    border:2px solid gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+form#login input::placeholder{
+    font-style: italic;
+    color: lightsteelblue
+}
